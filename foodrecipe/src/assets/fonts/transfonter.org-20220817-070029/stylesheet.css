@@ -1,0 +1,160 @@
+@font-face {
+    font-family: 'bill corp nar';
+    src: url('billcorpnar-medium.woff2') format('woff2'),
+        url('billcorpnar-medium.woff') format('woff'),
+        url('billcorpnar-medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'bill corp nar';
+    src: url('billcorpnar-bold.woff2') format('woff2'),
+        url('billcorpnar-bold.woff') format('woff'),
+        url('billcorpnar-bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'bill corp nar';
+    src: url('billcorpnar-extrabold.woff2') format('woff2'),
+        url('billcorpnar-extrabold.woff') format('woff'),
+        url('billcorpnar-extrabold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'bill corp nar';
+    src: url('billcorpnar-extralight.woff2') format('woff2'),
+        url('billcorpnar-extralight.woff') format('woff'),
+        url('billcorpnar-extralight.ttf') format('truetype');
+    font-weight: 200;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'bill corp nar';
+    src: url('billcorpnar-semibold.woff2') format('woff2'),
+        url('billcorpnar-semibold.woff') format('woff'),
+        url('billcorpnar-semibold.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'bill corp nar';
+    src: url('billcorpnar-light.woff2') format('woff2'),
+        url('billcorpnar-light.woff') format('woff'),
+        url('billcorpnar-light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'bill corp nar hairline';
+    src: url('billcorpnar-hairline.woff2') format('woff2'),
+        url('billcorpnar-hairline.woff') format('woff'),
+        url('billcorpnar-hairline.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'bill corp nar roman';
+    src: url('billcorpnar-roman.woff2') format('woff2'),
+        url('billcorpnar-roman.woff') format('woff'),
+        url('billcorpnar-roman.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'bill corp nar book';
+    src: url('billcorpnar-book.woff2') format('woff2'),
+        url('billcorpnar-book.woff') format('woff'),
+        url('billcorpnar-book.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'bill corp nar eight';
+    src: url('billcorpnar-eight.woff2') format('woff2'),
+        url('billcorpnar-eight.woff') format('woff'),
+        url('billcorpnar-eight.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'bill corp nar four';
+    src: url('billcorpnar-four.woff2') format('woff2'),
+        url('billcorpnar-four.woff') format('woff'),
+        url('billcorpnar-four.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'bill corp nar';
+    src: url('billcorpnar-thin.woff2') format('woff2'),
+        url('billcorpnar-thin.woff') format('woff'),
+        url('billcorpnar-thin.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'bill corp nar six';
+    src: url('billcorpnar-six.woff2') format('woff2'),
+        url('billcorpnar-six.woff') format('woff'),
+        url('billcorpnar-six.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'bill corp nar two';
+    src: url('billcorpnar-two.woff2') format('woff2'),
+        url('billcorpnar-two.woff') format('woff'),
+        url('billcorpnar-two.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'bill corp nar super';
+    src: url('billcorpnar-super.woff2') format('woff2'),
+        url('billcorpnar-super.woff') format('woff'),
+        url('billcorpnar-super.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'bill corp nar';
+    src: url('billcorpnar-ultralight.woff2') format('woff2'),
+        url('billcorpnar-ultralight.woff') format('woff'),
+        url('billcorpnar-ultralight.ttf') format('truetype');
+    font-weight: 200;
+    font-style: normal;
+    font-display: swap;
+}
+

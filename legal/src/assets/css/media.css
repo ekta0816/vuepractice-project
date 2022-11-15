@@ -1,0 +1,114 @@
+@media (max-width: 1400px) {
+  .container {
+    padding: 0 60px;
+  }
+  .conStep li::after {
+    right: -30px;
+  }
+}
+@media (max-width: 1200px) {
+  .container {
+    padding: 0 40px;
+  }
+  .hdrInfo .navbar-collapse .navbar-nav li.nav-item {
+    margin: 0 30px 0 0;
+  }
+  .hdrInfo .logBtn {
+    margin-left: 30px;
+  }
+  .hmContent .homeLinks p br {
+    display: none;
+  }
+  .conStep li {
+    width: 33%;
+    margin: 0 1% 0 0;
+  }
+  .conStep li::after {
+    right: -18px;
+    width: 20px;
+    height: 20px;
+    background-size: 20px;
+  }
+  .conStep p br {
+    display: none;
+  }
+}
+@media (max-width: 991px) {
+  .admin_panal {
+    min-width: auto;
+    background-color: transparent;
+    float: right;
+    padding: 16px 40px 0 20px;
+  }
+  .admin_panal .adminMain {
+    height: auto;
+  }
+  .admin_panal .offcanvas {
+    visibility: inherit;
+    transform: translateX(-100%);
+  }
+  .admin_panal .offcanvas-backdrop.show {
+    opacity: 0.3;
+  }
+  .admin_panal .offcanvas-header .btn-close {
+    display: block;
+  }
+  .admin_panal .btn {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #2916a6;
+    border: none;
+  }
+  .hdrInfo .logBtn {
+    margin: 0;
+  }
+  .hdrInfo .HdrNav {
+    text-align: right;
+    justify-content: space-between;
+  }
+  .secSpace {
+    padding: 40px 0;
+  }
+  .conStep {
+    padding: 40px 0 0 0;
+  }
+  .conStep h2 {
+    font-size: 20px;
+  }
+  .conStep li {
+    width: 50%;
+    margin: 0 0 30px 0;
+  }
+  .conStep li::after {
+    display: none;
+  }
+}
+@media (max-width: 640px) {
+  .container {
+    padding: 0 20px;
+  }
+  .admin_panal {
+    padding: 16px 20px 0 20px;
+  }
+  .hmContent .homeLinks h2 {
+    font-size: 20px;
+  }
+  .todoList .accordion .accordion-item .accordion-button {
+    padding: 20px 0;
+  }
+}
+@media (max-width: 480px) {
+  .todoList .accordion .accordion-item .accordion-button {
+    padding: 15px 0;
+    font-size: 18px;
+  }
+  .conStep li {
+    width: 100%;
+    border-bottom: 1px solid #e2e2e2;
+    padding: 0 0 30px 0;
+  }
+  .conStep li:last-child {
+    border: none;
+  }
+}/*# sourceMappingURL=media.css.map */
